@@ -2359,7 +2359,7 @@ input.main-search-input::placeholder {
   top: 0;
   left: 0;
   width: 30%;
-  background: linear-gradient(270deg, #3c72fc 6.32%, #00060c 216.42%);
+  background: linear-gradient(270deg, #1D469B 6.32%, #00060c 216.42%);
   height: 100%;
   content: "";
   z-index: -1;
